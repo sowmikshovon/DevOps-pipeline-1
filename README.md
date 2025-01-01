@@ -13,4 +13,4 @@ In this **DevOps project**, I built a Jenkins pipeline to **deploy a open source
 7. **Trivy** ![Trivy](https://img.shields.io/badge/Trivy-00979D?style=flat-square&logo=trivy&logoColor=white)
 
 ### Future plan:
-Impliment Kuberbates technologiea
+Impliment Kuberbates technologies
