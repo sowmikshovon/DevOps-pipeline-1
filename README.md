@@ -1,3 +1,5 @@
+![CI Pipeline](https://github.com/sowmikshovon/DevOps-pipeline-1/actions/workflows/ci.yml/badge.svg)
+
 # 🚀 **DevOps Project: ZOMATO Clone App Deployment**
 
 In this **DevOps project**, I built a Jenkins pipeline to **deploy a open source ZOMATO Clone App** using a variety of modern DevOps tools and services.
